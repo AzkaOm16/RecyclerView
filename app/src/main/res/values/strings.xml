@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="name_coffee">Nama Kopi</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Espresso</item>
+        <item>Americano</item>
+        <item>Cappucinno</item>
+        <item>Latte</item>
+        <item>Macchiato</item>
+        <item>Mocha</item>
+        <item>Flat White</item>
+        <item>Frappe</item>
+        <item>Affogato</item>
+        <item>Cold Brew</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Espresso adalah jenis minuman kopi murni tanpa menggunakan campuran bahan apapun seperti susu dan gula. Biasanya kopi ini digemari oleh orang yang suka dengan rasa kopi yang kuat. Tekstur kopinya yang pekat dan hitam dengan buih putih di atasnya terbentuk dari tekanan minyak dalam biji kopi. Disajikan dalam cangkir khusus espresso berukuran 30 mililiter. Kopi ini juga bisa dibilang yang paling rendah kalorinya.</item>
+        <item>Jenis minuman kopi americano dikenal juga dengan nama Long Black. Minuman ini masih mirip dengan espresso, yang membedakannya yaitu minuman ini didapat dari mengencerkan espresso. Dengan perbandingan yang tepat yakni 2 bagian espresso dengan 3 bagian air. Minuman ini dapat disajikan dalam keadaan panas atau dingin. Penyajian americano terdiri dari satu shot espresso yang dituang dalam cangkir berukuran 178 mililiter yang dicampur dengan air panas hingga memenuhi gelas.</item>
+        <item>Cappucinno merupakan salah satu jenis minuman kopi yang paling populer di kedai kopi. Kopi ini adalah minuman tradisional Italia, yang terkenal dengan lapisan atasnya berupa foam susu dan biasanya di hias dengan bubuk cokelat. Cappucino dibuat dari dua komposisi utama yaitu textured milk dan espresso dengan rasio 1:1. Namun ada juga yang menggunakan perbandingan 1/3 espresso, 1/3 textured milk dan 1/3 susu foam. Jenis kopi ini disajikan dalam cangkir berkapasitas 88 mililiter hingga 177 mililiter.</item>
+        <item>Sebelum kamu memesan jenis minuman kopi pastikan kamu mengetahui bahwa latte dan cappucino merupakan dua racikan berbeda. Bahkan dengan komposisi dan rasio yang berbeda. Latte biasanya menggunakan perbandingan espresso dan susu 2:1. Selain rasanya yang enak dan ringan, latte sering disajikan dalam cangkir dengan moti yang canti di atasnya, atau sering disebut latte art.</item>
+        <item>Macam dari jenis macchiato ini ada dua yakni long dang short. Short macchiato adalah single shot espresso dengan sedikit susu dan busa susu untuk meringankan rasa espresso yang kuat. Sedangkan long macchiato menggunakan double espresso. Untuk menghasilkan macchiato yang nikmat, maka dibutuhkan komposisi kopi dengan susu dengan jumlah perbandingan 4:1.</item>
+        <item>Sama kopi ini berasal dari salah satu daerah Yaman yakni, Moka. Keunikan dari jenis minuman kopi ini adalah perpaduan dari cokelat yang dicampur dengan espresso dan susu. Perbandingan mocha terbuat dari 1/5 susu 2/5 cokelat dan 2/5 espresso. Orang-orang Eropa sering menyebut kopi ini dengan mochachino.</item>
+        <item>Kopi ini berasal dari Selandia Baru dan Australia. Sekilas bentuknya mirip dengan latte. Bedanya flat white terbuat dari steamed milk yang berasal dari bawah tabung sehingga lebih creamy dan tidak berbusa. Susu tersebut kemudian dituang di atas espresso. Dari segi rasa flat white lebih kuat dari latte dan lebih lembut dari cappucino. Flat white menggunakan rasio susu lebih banyak dari café latte dan disajikan hampir tanpa foam. Jenis minuman kopi ini biasanya terdiri dari 60 mililiter textured milk alias microfoam atau gelembung yang terbentuk saat susu dipanaskan.</item>
+        <item>Frappe diambil dari bahasa Yunani yang berarti es kopi. Frappe adalah minuman es kopi berlapis busa dari campuran kopi instant air, gula, dan es batu yang dikocok atau diblend sehingga membentuk busa.</item>
+        <item>Di Eropa biasanya kopi affogato ini digunakan sebagai pencuci mulut yang disuguhkan selama musim panas dan setelah makan malam. Affogato ini terdiri dari campuran espresso yang kuat dan pahit dengan es krim vanilla yang nikmat. minuman kopi ini akan menjadi pilihan untuk kamu yng suka sensasi rasa tidak biasa dalam secangkir kopi. Kopi ini tercipta dengan perbandingan 2/5 espresso yang dipadukan dengan 3/5 es krim.</item>
+        <item>Seperti namanya kopi ini tidak menggunakan air panas untuk menyeduhnya. Melainkan dengan menggunakan air dingin dengan suhu ruang selama beberapa jam. Sehingga menghasilkan aroma kopi dan rasa yang dihasilkan khas yakni tidak terlaku pahit dan tidak terlalu asam.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/09/Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/c/c0/Capuccino_Italy.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/3/30/Koffie_verkeerd_cafe_MP_Amsterdam.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/0/07/Caff%C3%A8_Espresso_Macchiato_Schiumato.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/7e/Mocha_coffee.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/6/6b/Flat_white_coffee_with_pretty_feather_pattern.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/73/Cafe-frape-glas-holztisch-unscharf.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/1/19/Affogato.JPG</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg</item>
+    </string-array>
+</resources>
